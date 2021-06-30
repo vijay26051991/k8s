@@ -12,3 +12,5 @@
   4. etcd - contains entire information about the kubernetes cluster.
   
   pods - smallest unit of deployable unit.
+  service - communication between pods.
+  kubelet is an agent which communicates with master node and responsible for containers running and healthy which comes through the API server. It runs on each agent.
